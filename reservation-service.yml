@@ -1,0 +1,5 @@
+server:
+   instance: localhost
+   port: 8000
+
+message: Updated123
